@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155852649767",
+    "project_id": "rnfevents-12815",
+    "storage_bucket": "rnfevents-12815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155852649767:android:aed84fb27b01d060f4e502",
+        "android_client_info": {
+          "package_name": "com.rnfevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155852649767-ugu4nd1as5gh9ua51u9gamh9dt7tj02o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcsIV27ZS_rJZc-D0lo0YiDNecQm8-C6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155852649767-ugu4nd1as5gh9ua51u9gamh9dt7tj02o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
